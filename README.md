@@ -1,4 +1,3 @@
 # 海洋馆
 
-![](/imgs/mmexport1533572366873.jpg "螃蟹")
-![](/imgs/mmexport1533572383014.jpg "电鳐")
+[海洋馆照片一览](https://xingzengzhi.github.io/imgbot-j/index.html "海洋馆")
